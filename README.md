@@ -5,7 +5,7 @@ Exercise on responsive page content:
 * Using float and flex to change the layout and appearance of content such as font size and background colors
 
 Check out the result over here:
-https://mickdellaert.github.io/Responsive_Webdesign/
+https://mickdellaert.github.io/Responsive-Webdesign/
 
 ---
 
