@@ -1,5 +1,15 @@
 # Responsive Web Design
 
+Exercise on responsive page content:
+* Adding media queries to make the content on the page change dynamically depending on the screen size
+* Using float and flex to change the layout and appearance of content such as font size and background colors
+
+Check out the result over here:
+https://mickdellaert.github.io/Responsive_Webdesign/
+
+---
+
+
 - Repository: `responsive-webdesign`
 - Type of Challenge: `Learning Challenge`
 - Duration: `1 day`
